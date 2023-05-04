@@ -1,3 +1,4 @@
+//este archivo sirve para utilizar el API
 export async function buscarCanciones(token){
 
     const URL="https://api.spotify.com/v1/artists/0L8ExT028jH3ddEcZwqJJ5/top-tracks?market=us"
